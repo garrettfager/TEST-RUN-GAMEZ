@@ -1,0 +1,13 @@
+{
+  "name": "com.example.gamename",
+  "version": "1.0.0",
+  "displayName": "Fart",
+  "cordova": {
+    "platforms": [
+      "android"
+    ]
+  },
+  "dependencies": {
+    "cordova-android": "~7.1.2"
+  }
+}
